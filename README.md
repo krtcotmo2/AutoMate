@@ -10,7 +10,7 @@ Often times people do not keep accurate records on their car’s maintenance. Wh
 
 Even worse people do not know the specifications of their car or even the simple replacement parts for their vehicle. What is your tire size? Are the front different from the back? On some cars they are. What is the recommended octane level recommended by the manufacturer? What size windshield wipers do you need?
 
-<img  align="left" src='https://github.com/krtcotmo2/AutoMate/blob/master/test/newCar.png' /><img  align="center" src='https://github.com/krtcotmo2/AutoMate/blob/master/test/newCar.png' /><img  align="right" src='https://github.com/krtcotmo2/AutoMate/blob/master/test/newCar.png' />
+<img src='https://github.com/krtcotmo2/AutoMate/blob/master/test/newCar.png' /> <img  src='https://github.com/krtcotmo2/AutoMate/blob/master/test/newCar.png' /> <img  src='https://github.com/krtcotmo2/AutoMate/blob/master/test/newCar.png' />
 
 ### How we built it (this was a team effort)
 The backend server uses Node with Express. Express handles our API data retrieval via Axios requests. We use Bcrypt to hash out user passwords for a more secure storage. Once the password is verified, we use Json Web Token as part of the requests to ensure the user is logged in when accessing all internal pages.
