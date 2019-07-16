@@ -10,6 +10,7 @@ Often times people do not keep accurate records on their car’s maintenance. Wh
 
 Even worse people do not know the specifications of their car or even the simple replacement parts for their vehicle. What is your tire size? Are the front different from the back? On some cars they are. What is the recommended octane level recommended by the manufacturer? What size windshield wipers do you need?
 
+![New Car](https://github.com/krtcotmo2/AutoMate/blob/master/test/newCar.png)
 ![New Fuel Entry](https://github.com/krtcotmo2/AutoMate/blob/master/test/fuel.png)
 ![Past Service Entry](https://github.com/krtcotmo2/AutoMate/blob/master/test/service.png)
 
